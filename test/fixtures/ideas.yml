@@ -1,11 +1,11 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  title: MyString
-  body: MyText
-  quality: 1
+  title: First Idea
+  body: take over the world
+  quality: 2
 
 two:
-  title: MyString
-  body: MyText
+  title: Second Idea
+  body: stay away from Russia
   quality: 1
